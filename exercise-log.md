@@ -9,6 +9,9 @@
 
 # Exercise Log
 
+## October 19, 2024
+- Plank: 1 set of 90 seconds
+
 ## October 17, 2024
 - Push-ups (on knees): 1 set of 10 repetitions
 
