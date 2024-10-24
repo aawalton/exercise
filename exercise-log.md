@@ -9,6 +9,9 @@
 
 # Exercise Log
 
+## October 24, 2024
+- Glute Bridges: 1 set of 30 repetitions
+
 ## October 19, 2024
 - Plank: 1 set of 90 seconds
 
@@ -17,4 +20,3 @@
 
 ## October 14, 2024
 - Squats: 1 set of 40 repetitions
-
