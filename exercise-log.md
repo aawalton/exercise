@@ -9,6 +9,9 @@
 
 # Exercise Log
 
+## October 26, 2024
+- Wall Sits: 1 set of 45 seconds
+
 ## October 24, 2024
 - Glute Bridges: 1 set of 30 repetitions
 
