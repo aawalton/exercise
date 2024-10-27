@@ -9,6 +9,9 @@
 
 # Exercise Log
 
+## October 27, 2024
+- Bird Dogs: 1 set of 20 repetitions (10 per side)
+
 ## October 26, 2024
 - Wall Sits: 1 set of 45 seconds
 
