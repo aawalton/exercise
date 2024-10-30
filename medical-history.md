@@ -40,10 +40,6 @@ Since psychological interventions were not successful, I decided to try again at
 
 # Description of Symptoms
 
-## Overview
-
-Diagnosing this chronic illness has been difficult because the symptoms are many and are spread across many systems. Individual medical professionals have generally focused on a single symptom and have failed to identify the root cause or suggest treatments that have had a positive impact.
-
 ## Stress Level
 
 My sympathetic nervous system seems to be much more effective than my parasympathetic nervous system. When I am exposed to stress triggers, I immediately experience elevated physiological arousal. However, after the stress triggers are gone, the arousal levels do not return to normal as expected, remaining high for days rather than minutes.
@@ -64,7 +60,7 @@ I spend 4-12 hours per day keeping my stress level within normal bounds through 
 
 ## Semi-voluntary Shaking
 
-When me stress levels goes above 30, I start to get semi-voluntary shaking, which I can suppress with effort but do not control. I believe this is the standard “gazelle shake” response to elevated stress, and works to reduce the stress level. This seems to have some benefit for me and doesn’t seem to hurt, so I usually let the shaking run it’s course. 
+When my stress level goes above 30, I start to get semi-voluntary shaking, which I can suppress with effort but do not control. I believe this is the standard “gazelle shake” response to elevated stress, and works to reduce the stress level. This seems to have some benefit for me and doesn’t seem to hurt, so I usually let the shaking run it’s course. 
 
 ## Joint Swelling
 
@@ -116,7 +112,7 @@ Under extreme levels of stress (50+), I have occasionally experienced severe sto
 
 Under stress, I develop breathing difficulties. Exercising with particulates in the air causes severe breathing difficulty (diagnosed as subliminal aromatic bronchitis), but other types of stress can also cause more mild breathing difficulties.
 
-### Blurred Vision
+## Blurred Vision
 
 Under high stress, my vision will sometimes blur, and I’ll need to lie down for a while before I can see again. This happens most often after standing up.
 
@@ -225,7 +221,7 @@ I was likely the most gifted at math and science as a kid. At the age of four, I
 
 ### Intelligence and Memory
 
-The increase in neuronal connectivity means that all stimulus is more impactful. For me, that has resulted in an improved memory and ability to learn. I have routinely scored in the 99th percentile on standardized texts and in the past have memorized hundreds of pages of books.
+The increase in neuronal connectivity means that all stimulus is more impactful. For me, that has resulted in an improved memory and ability to learn. I have routinely scored in the 99th percentile on standardized tests and in the past have memorized hundreds of pages of books.
 
 ### Early Almost Diagnosis
 
