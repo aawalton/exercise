@@ -9,6 +9,9 @@
 
 # Exercise Log
 
+## November 1, 2024
+- Superman Hold: 1 set of 30 seconds
+
 ## October 27, 2024
 - Bird Dogs: 1 set of 20 repetitions (10 per side)
 
