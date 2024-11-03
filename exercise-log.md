@@ -6,8 +6,12 @@
 - Propose a single exercise for today
 - Ensure the exercises have appropriate variety
 - Only propose exercises that can be done at home
+- Describe how to do the exercise with good form
 
 # Exercise Log
+
+## November 3, 2024
+- Wall Push-ups: 1 set of 15 repetitions
 
 ## November 1, 2024
 - Superman Hold: 1 set of 30 seconds
