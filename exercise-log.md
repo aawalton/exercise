@@ -10,6 +10,9 @@
 
 # Exercise Log
 
+## November 12, 2024
+- Push-ups (on knees): 2 sets of 10 repetitions
+
 ## November 3, 2024
 - Wall Push-ups: 1 set of 15 repetitions
 
